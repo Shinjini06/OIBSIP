@@ -1,4 +1,4 @@
-# OIBSIP - OASIS INFOBYTE ML Tasks
+# OIBSIP - ML Tasks
 
 A collection of machine learning projects completed during my internship at OASIS INFOBYTE.
 
